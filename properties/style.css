@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Znamenny+Musical+Notation&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+.cart-btn{
+    display: flex;
+}
+.cart-sym{
+    font-size: 30px;
+}
+.cart-count{
+background-color: red;
+padding:0px 6px;
+height: 20px;
+width: auto;
+line-height: 20px;
+border-radius: 8px;
+font-size: 12px;
+font-weight: 600;
+text-align: center;
+}
+.carousel{
+    height: 200px;
+}
+.fit-img{
+    height: 200px;
+    object-fit: cover; 
+}
+
+.drop{
+    background-color: aqua;
+    width: calc(100%-10px);
+    height: 50px;
+    position: relative;
+}
+.drop-btn{
+    width: 100%;
+    outline: none;
+    border: none;
+    color: white;
+}
+
+.dop-col{
+    width: 1000px;
+    background-color: black;
+}
+
+.space{
+    margin-bottom: 20px;
+}
+.addcart{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    /* background-color: rebeccapurple; */
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+}
+.inp-co{
+    width: 60px;
+}
+
+.addcount{
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+.card{
+    margin-top: 20px;
+    height: 420px;
+    position: relative;
+    /* margin: 0px 10px; */
+}
+.mobile-sc{
+    border-top: 10px solid #28a745;
+    padding-top: 10px;
+    /* margin: 0px 20px; */
+}
+.mobile-sc select option{
+    background-color:#f8f9fa;
+    color: #343a40;
+}
+.price{
+    color: red;
+    font-weight: 700;
+    text-decoration: 2px underline;
+}
+.poster-link{
+    width: 100%;
+    height: 200px;
+    /* overflow: hidden; */
+}
+.poster-link img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.summary{
+    width: 100%;     
+    height: 70px;
+    /* background-color: #28a745; */
+    position: absolute;
+    bottom:70px;
+    left: 0%;
+    padding: 0px 10px;
+}
+.card h6{
+    width: 100%;
+    height: 30px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    align-items: center;
+}
+.title{
+    /* text-wrap: nowrap; */
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.foot-box{
+    width: 100vw;
+    height: 200px;
+}
+::-webkit-scrollbar{
+    width: 10px;
+    cursor: pointer;
+}
+::-webkit-scrollbar-thumb{
+    height: 50px;
+    background-color: #28a745;
+}
+
+
+@media screen and (min-width:680px) {
+    .carousel{
+        height: 300px;
+    }
+    .fit-img{
+        height: 300px;
+    }
+    /* .mobile-sc{
+        display: none;
+    } */
+}

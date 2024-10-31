@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Fudge Cake",
+        "summary": "Rich and moist chocolate cake with layers of fudge.",
+        "image_link": "assets/images/Products/Chocolate_Fudge_Cake.jpg",
+        "price": 399,
+        "category": "cakes"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry Cheesecake",
+        "summary": "Creamy cheesecake topped with fresh strawberries.",
+        "image_link": "assets/images/Products/Strawberry_Cheesecake.jpg",
+        "price": 349,
+        "category": "cakes"
+    },
+    {
+        "id": 3,
+        "name": "Vanilla Bean Ice Cream",
+        "summary": "Classic vanilla ice cream made with real vanilla beans.",
+        "image_link": "assets/images/Products/Vanilla_Bean_Ice_Cream.jpg",
+        "price": 199,
+        "category": "ice-creams"
+    },
+    {
+        "id": 4,
+        "name": "Mango Sorbet",
+        "summary": "Refreshing sorbet made with ripe mangoes.",
+        "image_link": "assets/images/Products/Mango_Sorbet.jpg",
+        "price": 179,
+        "category": "ice-creams"
+    },
+    {
+        "id": 5,
+        "name": "Red Velvet Cake",
+        "summary": "Fluffy red velvet cake with cream cheese frosting.",
+        "image_link": "assets/images/Products/Red_Velvet_Cake.jpg",
+        "price": 429,
+        "category": "cakes"
+    },
+    {
+        "id": 6,
+        "name": "Mint Chocolate Chip Ice Cream",
+        "summary": "Mint-flavored ice cream with chocolate chips.",
+        "image_link": "assets/images/Products/Mint_Chocolate_Chip_Ice_Cream.jpg",
+        "price": 229,
+        "category": "ice-creams"
+    },
+    {
+        "id": 7,
+        "name": "Carrot Cake",
+        "summary": "Spiced carrot cake with walnuts and cream cheese frosting.",
+        "image_link": "assets/images/Products/Carrot_Cake.jpg",
+        "price": 359,
+        "category": "cakes"
+    },
+    {
+        "id": 8,
+        "name": "Rocky Road Ice Cream",
+        "summary": "Chocolate ice cream with marshmallows and nuts.",
+        "image_link": "assets/images/Products/Rocky_Road_Ice_Cream.jpg",
+        "price": 249,
+        "category": "ice-creams"
+    },
+    {
+        "id": 9,
+        "name": "Lemon Drizzle Cake",
+        "summary": "Light lemon sponge cake with a zesty lemon glaze.",
+        "image_link": "assets/images/Products/Lemon_Drizzle_Cake.jpg",
+        "price": 329,
+        "category": "cakes"
+    },
+    {
+        "id": 10,
+        "name": "Cookies and Cream Ice Cream",
+        "summary": "Vanilla ice cream with chunks of chocolate cookies.",
+        "image_link": "assets/images/Products/Cookies_and_Cream_Ice_Cream.jpg",
+        "price": 219,
+        "category": "ice-creams"
+    },
+    {
+        "id": 11,
+        "name": "Black Forest Cake",
+        "summary": "Chocolate sponge cake layered with cherries and whipped cream.",
+        "image_link": "assets/images/Products/Black_Forest_Cake.jpg",
+        "price": 399,
+        "category": "cakes"
+    },
+    {
+        "id": 12,
+        "name": "Pistachio Ice Cream",
+        "summary": "Creamy ice cream with real pistachio nuts.",
+        "image_link": "assets/images/Products/Pistachio_Ice_Cream.jpg",
+        "price": 259,
+        "category": "ice-creams"
+    },
+    {
+        "id": 13,
+        "name": "Raspberry Tart Cake",
+        "summary": "Delicate tart cake topped with fresh raspberries.",
+        "image_link": "assets/images/Products/Raspberry_Tart_Cake.jpg",
+        "price": 389,
+        "category": "cakes"
+    },
+    {
+        "id": 14,
+        "name": "Butter Pecan Ice Cream",
+        "summary": "Buttery ice cream with roasted pecans.",
+        "image_link": "assets/images/Products/Butter_Pecan_Ice_Cream.jpg",
+        "price": 239,
+        "category": "ice-creams"
+    },
+    {
+        "id": 15,
+        "name": "Chocolate Lava Cake",
+        "summary": "Warm chocolate cake with a gooey molten center.",
+        "image_link": "assets/images/Products/Chocolate_Lava_Cake.jpg",
+        "price": 429,
+        "category": "cakes"
+    },
+    {
+        "id": 16,
+        "name": "Salted Caramel Ice Cream",
+        "summary": "Creamy caramel ice cream with a hint of sea salt.",
+        "image_link": "assets/images/Products/Salted_Caramel_Ice_Cream.jpg",
+        "price": 249,
+        "category": "ice-creams"
+    },
+    {
+        "id": 17,
+        "name": "Peanut Butter Cup Cake",
+        "summary": "Decadent cake with layers of peanut butter cream and chocolate.",
+        "image_link": "assets/images/Products/Peanut_Butter_Cup_Cake.jpg",
+        "price": 459,
+        "category": "cupcakes"
+    },
+    {
+        "id": 18,
+        "name": "Tropical Fruit Sorbet",
+        "summary": "A blend of exotic tropical fruits in a refreshing sorbet.",
+        "image_link": "assets/images/Products/Tropical_Fruit_Sorbet.jpg",
+        "price": 199,
+        "category": "ice-creams"
+    },
+    {
+        "id": 19,
+        "name": "Caramel Cheesecake",
+        "summary": "Creamy cheesecake with a rich caramel topping.",
+        "image_link": "assets/images/Products/Caramel_Cheesecake.jpg",
+        "price": 369,
+        "category": "cakes"
+    },
+    {
+        "id": 20,
+        "name": "Almond Joy Ice Cream",
+        "summary": "Coconut ice cream with chocolate and almond pieces.",
+        "image_link": "assets/images/Products/Almond_Joy_Ice_Cream.jpg",
+        "price": 229,
+        "category": "ice-creams"
+    },
+    {
+        "id": 21,
+        "name": "Hazelnut Praline Cake",
+        "summary": "Rich cake with layers of hazelnut praline and chocolate.",
+        "image_link": "assets/images/Products/Hazelnut_Praline_Cake.jpg",
+        "price": 489,
+        "category": "cakes"
+    },
+    {
+        "id": 22,
+        "name": "Matcha Green Tea Ice Cream",
+        "summary": "Creamy ice cream infused with authentic matcha green tea.",
+        "image_link": "assets/images/Products/Matcha_Green_Tea_Ice_Cream.jpg",
+        "price": 249,
+        "category": "ice-creams"
+    },
+    {
+        "id": 23,
+        "name": "Classic Lemonade",
+        "summary": "Refreshing lemonade made with fresh lemons and a hint of mint.",
+        "image_link": "assets/images/Products/Classic_Lemonade.jpg",
+        "price": 99,
+        "category": "drinks"
+    },
+    {
+        "id": 24,
+        "name": "Iced Coffee",
+        "summary": "Chilled coffee with milk and a touch of vanilla.",
+        "image_link": "assets/images/Products/Iced_Coffee.jpg",
+        "price": 129,
+        "category": "drinks"
+    },
+    {
+        "id": 25,
+        "name": "Strawberry Smoothie",
+        "summary": "Creamy smoothie made with fresh strawberries and yogurt.",
+        "image_link": "assets/images/Products/Strawberry_Smoothie.jpg",
+        "price": 149,
+        "category": "drinks"
+    },
+    {
+        "id": 26,
+        "name": "Mint Mojito",
+        "summary": "A refreshing blend of mint, lime, and soda water.",
+        "image_link": "assets/images/Products/Mint_Mojito.jpg",
+        "price": 159,
+        "category": "drinks"
+    },
+    {
+        "id": 27,
+        "name": "Mango Lassi",
+        "summary": "Creamy yogurt drink blended with ripe mangoes and spices.",
+        "image_link": "assets/images/Products/Mango_Lassi.jpg",
+        "price": 139,
+        "category": "drinks"
+    },
+    {
+        "id": 28,
+        "name": "Chocolate Milkshake",
+        "summary": "Rich and creamy milkshake made with real chocolate.",
+        "image_link": "assets/images/Products/Chocolate_Milkshake.jpg",
+        "price": 179,
+        "category": "drinks"
+    },
+    {
+        "id": 29,
+        "name": "Peach Iced Tea",
+        "summary": "Refreshing iced tea infused with peach flavor.",
+        "image_link": "assets/images/Products/Peach_Iced_Tea.jpg",
+        "price": 109,
+        "category": "drinks"
+    },
+    {
+        "id": 30,
+        "name": "Spiced Chai Latte",
+        "summary": "Warm spiced tea with steamed milk and a touch of cinnamon.",
+        "image_link": "assets/images/Products/Spiced_Chai_Latte.jpeg",
+        "price": 139,
+        "category": "drinks"
+    },
+    {
+        "id": 31,
+        "name": "Coconut Water",
+        "summary": "Natural coconut water for a refreshing and hydrating experience.",
+        "image_link": "assets/images/Products/Coconut Water.jpg",
+        "price": 89,
+        "category": "drinks"
+    },
+    {
+        "id": 32,
+        "name": "Berry Smoothie",
+        "summary": "Delicious smoothie made with mixed berries and yogurt.",
+        "image_link": "assets/images/Products/Berry Smoothie.jpg",
+        "price": 149,
+        "category": "drinks"
+    },
+    {
+        "id": 33,
+        "name": "Espresso",
+        "summary": "Strong and bold coffee brewed by forcing hot water through finely-ground coffee.",
+        "image_link": "assets/images/Products/Espresso.jpg",
+        "price": 99,
+        "category": "drinks"
+    },
+    {
+        "id": 34,
+        "name": "Cappuccino",
+        "summary": "Espresso topped with steamed milk and frothed milk for a creamy texture.",
+        "image_link": "assets/images/Products/Cappuccino.jpg",
+        "price": 129,
+        "category": "drinks"
+    },
+    {
+        "id": 35,
+        "name": "Green Tea",
+        "summary": "Light and refreshing tea packed with antioxidants.",
+        "image_link": "assets/images/Products/Green Tea.jpg",
+        "price": 89,
+        "category": "drinks"
+    },
+    {
+        "id": 36,
+        "name": "Chai Tea",
+        "summary": "Spiced Indian tea brewed with milk and a blend of aromatic spices.",
+        "image_link": "assets/images/Products/Chai Tea.jpg",
+        "price": 99,
+        "category": "drinks"
+    },
+    {
+        "id": 37,
+        "name": "Chocolate Croissant",
+        "summary": "Flaky pastry filled with rich chocolate, perfect for breakfast.",
+        "image_link": "assets/images/Products/Chocolate Croissant.jpg",
+        "price": 89,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 38,
+        "name": "Cheese Danish",
+        "summary": "Delicate pastry filled with sweetened cream cheese.",
+        "image_link": "assets/images/Products/Cheese _Danish.jpg",
+        "price": 129,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 39,
+        "name": "Spinach and Feta Puff",
+        "summary": "Flaky pastry filled with spinach and feta cheese.",
+        "image_link": "assets/images/Products/Spinach and Feta Puff.jpg",
+        "price": 149,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 40,
+        "name": "Apple Turnover",
+        "summary": "Puff pastry filled with spiced apples, baked until golden.",
+        "image_link": "assets/images/Products/Apple Turnover.jpg",
+        "price": 99,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 41,
+        "name": "Lemon Scone",
+        "summary": "Tender scone with a zesty lemon flavor, perfect with tea.",
+        "image_link": "assets/images/Products/lemon_scone.jpg",
+        "price": 79,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 42,
+        "name": "Chocolate Chip Cookie",
+        "summary": "Classic cookie with gooey chocolate chips, fresh from the oven.",
+        "image_link": "assets/images/Products/Chocolate Chip Cookie.jpg",
+        "price": 49,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 43,
+        "name": "Egg Puff",
+        "summary": "Flaky pastry filled with spiced boiled eggs, a savory delight.",
+        "image_link": "assets/images/Products/Egg Puff.jpg",
+        "price": 99,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 44,
+        "name": "Curry Puff",
+        "summary": "Golden pastry filled with spicy potato and peas, perfect for snacking.",
+        "image_link": "assets/images/Products/Curry Puff.jpg",
+        "price": 79,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 45,
+        "name": "Chicken Puff",
+        "summary": "Flaky pastry filled with seasoned minced chicken, baked to perfection.",
+        "image_link": "assets/images/Products/Chicken Puff.jpg",
+        "price": 129,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 46,
+        "name": "Dil Pasand",
+        "summary": "Soft, sweet pastry with a coconut filling, a traditional favorite.",
+        "image_link": "assets/images/Products/Dil Pasand.jpg",
+        "price": 89,
+        "category": "hot_snacks"
+    },
+    {
+        "id": 47,
+        "name": "Bread Loaf",
+        "summary": "Freshly baked soft bread, perfect for sandwiches or to enjoy with butter.",
+        "image_link": "assets/images/Products/Bread Loaf.jpg",
+        "price": 49,
+        "category": "breads"
+    },
+    {
+        "id": 48,
+        "name": "Special Black Forest Pastry",
+        "summary": "Indulge in this rich chocolate pastry layered with cherries and whipped cream, a delightful treat.",
+        "image_link": "assets/images/Products/Special Black Forest Pastry.jpg",
+        "price": 149,
+        "category": "special_items"
+    },
+    {
+        "id": 49,
+        "name": "Special Mango Mousse Cake",
+        "summary": "A light and airy mango mousse cake with a buttery sponge base and fresh mango topping.",
+        "image_link": "assets/images/Products/Special Mango Mousse Cake.jpg",
+        "price": 349,
+        "category": "special_items"
+    },
+    {
+        "id": 50,
+        "name": "Special Tiramisu",
+        "summary": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "image_link": "assets/images/Products/Special Tiramisu.jpg",
+        "price": 399,
+        "category": "special_items"
+    },
+    {
+        "id": 51,
+        "name": "Mini Chocolate Chip Cookie",
+        "summary": "Delicious mini cookies loaded with chocolate chips.",
+        "image_link": "assets/images/Products/Mini Chocolate Chip Cookie.jpg",
+        "price": 25,
+        "category": "cookies"
+    },
+    {
+        "id": 52,
+        "name": "Pineapple Tart",
+        "summary": "A sweet and tangy tart filled with fresh pineapple jam.",
+        "image_link": "assets/images/Products/Pineapple Tart.jpg",
+        "price": 30,
+        "category": "tarts"
+    },
+    {
+        "id": 53,
+        "name": "Vanilla Cupcake",
+        "summary": "Light and fluffy vanilla cupcake topped with creamy frosting.",
+        "image_link": "assets/images/Products/vanilla_cupcake.jpg",
+        "price": 40,
+        "category": "cupcakes"
+    },
+    {
+        "id": 54,
+        "name": "Butter Biscuit",
+        "summary": "Crispy and buttery biscuits, perfect for tea time.",
+        "image_link": "assets/images/Products/Butter Biscuit.jpg",
+        "price": 15,
+        "category": "biscuits"
+    },
+    {
+        "id": 55,
+        "name": "Choco Lava Cake Bite",
+        "summary": "A mini version of our famous choco lava cake, oozing with chocolate.",
+        "image_link": "assets/images/Products/Choco Lava Cake Bite.jpg",
+        "price": 45,
+        "category": "special_items"
+    },
+    {
+        "id": 56,
+        "name": "Plain Croissant",
+        "summary": "Flaky, buttery croissant perfect for breakfast.",
+        "image_link": "assets/images/Products/plain_croissant.jpeg",
+        "price": 40,
+        "category": "pastries"
+    },
+    {
+        "id": 57,
+        "name": "Masala Bun",
+        "summary": "Soft bun with a spicy masala filling.",
+        "image_link": "assets/images/Products/Masala Bun.jpg",
+        "price": 20,
+        "category": "breads"
+    },
+    {
+        "id": 58,
+        "name": "Garlic Breadstick",
+        "summary": "Crispy breadstick with a hint of garlic flavor.",
+        "image_link": "assets/images/Products/Garlic Breadstick.jpeg",
+        "price": 15,
+        "category": "breads"
+    },
+    {
+        "id": 59,
+        "name": "Jam Tart",
+        "summary": "Mini tart filled with sweet berry jam.",
+        "image_link": "assets/images/Products/Jam Tart.jpg",
+        "price": 25,
+        "category": "tarts"
+    },
+    {
+        "id": 60,
+        "name": "Coconut Macaroon",
+        "summary": "Sweet and chewy coconut macaroons.",
+        "image_link": "assets/images/Products/Coconut Macaroon.jpg",
+        "price": 30,
+        "category": "cookies"
+    }
+]
